@@ -4,6 +4,6 @@ Image Classification gambar kucing dan anjing ini menggunakan metode CNN (Convol
 
 
 Referensi Project
-https://youtu.be/jztwpsIzEGc?si=yQWyTTAv_jGpGs94
-https://www.youtube.com/watch?v=J1jhfAw5Uvo&t=14s
-https://www.youtube.com/watch?v=ENXr1foShrA
+1. https://youtu.be/jztwpsIzEGc?si=yQWyTTAv_jGpGs94
+2. https://www.youtube.com/watch?v=J1jhfAw5Uvo&t=14s
+3. https://www.youtube.com/watch?v=ENXr1foShrA
